@@ -53,7 +53,7 @@
     <td>
       <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase"/>
       <img src="https://img.shields.io/badge/MySQL-%23336791.svg?style=flat-square&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Milvus-34A167?style=flat-square&logo=milvus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AzureDataStudio-34A167?style=flat-square&logo=microsoftsql&logoColor=white"/>
     </td>
   </tr>
 </table>
