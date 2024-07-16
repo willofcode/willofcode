@@ -8,7 +8,8 @@
 - 🤔 I’m looking for help with learning about Machine Learning and Data Science
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My hobbies are Billiards, Cooking, and Gym
---> Last update: 07/2024
+- Last update: 07/2024
+
 ## Languages and Frameworks
 <table>
   <tr>
