@@ -62,7 +62,7 @@
 
 [![email_badge]](mailto:wng003@citymail.cuny.edu)
 [![discord_badge]](https:)
-[![portfolio_badge]]()
+[![portfolio_badge]](https://william-ng-portfolio.vercel.app/)
 [![linkedin_badge]](https://linkedin.com/in/william-ng-nyc)
 
 <!-- Badges -->
