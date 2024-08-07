@@ -5,7 +5,7 @@
 - 🔭 I’m working on projects, a portfolio website, etc.
 - 🌱 I’m currently learning Swift, IOS Development, and Web Development
 - 👯 I’m looking to collaborate on Projects and Hackathons
-- 🤔 I’m looking for help with learning about Machine Learning and Data Science
+- 🤔 I’m also studying Machine Learning and Data Science
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My hobbies are Billiards, Cooking, and Gym
 - Last updated: 08/2024
