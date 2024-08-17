@@ -46,6 +46,7 @@
       <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB">
       <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=flat-square&logo=flask&logoColor=white"/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+       <img src="https://img.shields.io/badge/nodeJS-009688?style=flat-square&logo=nodeJS&logoColor=white"/>
     </td>
   </tr>
   <tr>
