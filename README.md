@@ -38,7 +38,7 @@
     <td>
       <img src="https://img.shields.io/badge/Tailwind-38B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white"/>
       <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white"/>
     </td>
   </tr>
   <tr>
