@@ -54,7 +54,22 @@
       <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase"/>
       <img src="https://img.shields.io/badge/MySQL-%23336791.svg?style=flat-square&logo=mysql&logoColor=white"/>
       <img src="https://img.shields.io/badge/AzureDataStudio-34A167?style=flat-square&logo=microsoftsql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white"/>
     </td>
+  </tr>
+  <tr>
+    <td>Machine Learning</td>
+    <td>
+<!--       <img src="https://img.shields.io/badge/Keras-D00000.svg?style=flat-square&logo=keras&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Seaborn-4C4C4C?style=flat-square&logo=seaborn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/D3.js-F9A03C.svg?style=flat-square&logo=d3dotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat-square&logo=opencv&logoColor=white"/> -->
+      <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Matplotlib-013220?style=flat-square&logo=matplotlib&logoColor=white"/>
+     </td>
   </tr>
 </table>
 
