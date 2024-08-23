@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=🫰🏻Hello!,%20I'm%20William👨🏻‍💻&textBg=false&reversal=false&rotate=0&fontAlignY=50&animation=fadeIn&desc=Welcome%20to%20my%20Repository!&descAlignY=70"
 <!------------------------------------------------------------------------------
 
-- 🔭 I’m working on projects, a portfolio website, etc.
+- 🔭 I’m working on AI projects, LeetCodes, and etc.
 - 🌱 I’m currently learning Machine Learning, Data Science, and Web Development
 - 👯 I’m looking to collaborate on Projects and Hackathons
 - 🤔 I’m also studying Swift and IOS Development
