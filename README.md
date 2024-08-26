@@ -60,7 +60,7 @@
     </td>
   </tr>
   <tr>
-    <td>Machine Learning</td>
+    <td>Machine Learning/Data Science</td>
     <td>
 <!--       <img src="https://img.shields.io/badge/Keras-D00000.svg?style=flat-square&logo=keras&logoColor=white"/>
       <img src="https://img.shields.io/badge/Seaborn-4C4C4C?style=flat-square&logo=seaborn&logoColor=white"/>
