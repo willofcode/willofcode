@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Projects and Hackathons
 - 🤔 I’m also studying Swift and IOS Development
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: My hobbies are Billiards, Cooking, and Gym
+- ⚡ Fun fact: My hobbies are Billiards, Cooking, Baking, and Gym
 - Last updated: 08/2024
 
 ## Languages and Frameworks
