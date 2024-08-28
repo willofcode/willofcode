@@ -4,7 +4,7 @@
 
 - 🔭 I’m working on AI projects, LeetCodes, and etc.
 - 🌱 I’m currently learning Machine Learning, Data Science, and Web Development
-- 👯 I’m looking to collaborate on Projects and Hackathons
+- 👯 I’m looking to collaborate on Projects, Research, and Hackathons
 - 🤔 I’m also studying Swift and IOS Development
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My hobbies are Billiards, Cooking, Baking, and Gym
