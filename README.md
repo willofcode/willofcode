@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Machine Learning, Data Science, and Web Development
 - 👯 I’m looking to collaborate on Projects, Research, and Hackathons
 - 🤔 I’m also studying Swift and IOS Development
-- 💻 I can work on Windows OS & macOS
+- 💻 Mainly working on MacOS, but can work with Linux and windows OS
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My hobbies are Billiards, Cooking, Baking, and Gym
 - Last updated: 08/2024
