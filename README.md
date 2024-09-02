@@ -2,12 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=🫰🏻Hello!,%20I'm%20William👨🏻‍💻&textBg=false&reversal=false&rotate=0&fontAlignY=50&animation=fadeIn&desc=Welcome%20to%20my%20Repository!&descAlignY=70"
 <!------------------------------------------------------------------------------
 
-- 🔭 I’m working on AI projects, LeetCodes, and etc.
+- 🔭 I’m working on AI projects, LeetCodes, etc.
 - 🌱 I’m currently learning Machine Learning, Data Science, and Web Development
 - 👯 I’m looking to collaborate on Projects, Research, and Hackathons
 - 🤔 I’m also studying Swift and IOS Development
-- 💪 I am a lifelong learner and love problem solving
-- 💻 Mainly working on MacOS, but can work with Linux and windows OS
+- 💪 Lifelong Learner, Problem Solver, & Critical Thinker
+- 💻 working on MacOS, but can work with Linux and Windows OS
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My hobbies are Billiards, Cooking, Baking, and Gym
 - Last updated: 08/2024
