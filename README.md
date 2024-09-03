@@ -10,7 +10,7 @@
 - 💻 working on MacOS, but can work with Linux and Windows OS
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My hobbies are Billiards, Cooking, Baking, and Gym
-- Last updated: 08/2024
+- Last updated: 09/2024
 
 ## Languages and Frameworks
 <table>
