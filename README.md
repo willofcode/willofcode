@@ -3,7 +3,7 @@
 <!------------------------------------------------------------------------------
 
 - 🔭 I’m working on AI projects, LeetCodes, etc.
-- 🌱 I’m currently learning Machine Learning, Data Science, and Web Development
+- 🌱 I’m currently interested in Machine Learning, Data Science, and Web Development
 - 👯 I’m looking to collaborate on Projects, Research, and Hackathons
 - 🤔 I’m also studying Swift and IOS Development
 - 💪 Lifelong Learner, Problem Solver, & Critical Thinker
