@@ -8,7 +8,7 @@
 - 🤔 I’m also studying Swift and IOS Development
 - 💪 Lifelong Learner, Problem Solver, & Critical Thinker
 - 💻 working on MacOS, but can work with Linux and Windows OS
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: My hobbies are Billiards, Cooking, Baking, and Gym
 - Last updated: 09/2024
 
