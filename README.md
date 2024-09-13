@@ -10,6 +10,7 @@
 - 💻 working on MacOS, but can work with Linux and Windows OS
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: My hobbies are Billiards, Cooking, Baking, and Gym
+-  Learning how to use METAL and core ML to develop machine learning software
 - Last updated: 09/2024
 
 ## Languages and Frameworks
