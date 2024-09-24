@@ -11,6 +11,7 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: My hobbies are Billiards, Cooking, Baking, and Gym
 -  Learning how to use METAL and core ML to develop machine learning software
+-  familiar with MATLAB, MultiSIM, LabVIEW, and XILINX ISE Design.
 - Last updated: 09/2024
 
 ## Languages and Frameworks
