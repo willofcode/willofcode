@@ -6,13 +6,13 @@
 - 🌱 I’m currently interested in Machine Learning, Data Science, and Web Development
 - 👯 I’m looking to collaborate on Projects, Research, and Hackathons
 - 🤔 I’m also studying Swift and IOS Development
-- 💪 Lifelong Learner, Problem Solver, & Critical Thinker
+- 💪 co-developed SmartWallet
 - 💻 working on MacOS, but can work with Linux and Windows OS
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: My hobbies are Billiards, Cooking, Baking, and Gym
 -  Learning how to use METAL and core ML to develop machine learning software
 -  familiar with MATLAB, MultiSIM, LabVIEW, and XILINX ISE Design.
-- Last updated: 09/2024
+- Last updated: 05/2025
 
 ## Languages and Frameworks
 <table>
