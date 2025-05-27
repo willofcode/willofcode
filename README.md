@@ -43,6 +43,7 @@
       <img src="https://img.shields.io/badge/Tailwind-38B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white"/>
       <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
       <img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Shadcn/UI-%23404d59.svg?style=flat-square&logo=shadcn&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -61,15 +62,16 @@
       <img src="https://img.shields.io/badge/MySQL-%23336791.svg?style=flat-square&logo=mysql&logoColor=white"/>
       <img src="https://img.shields.io/badge/AzureDataStudio-34A167?style=flat-square&logo=microsoftsql&logoColor=white"/>
       <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-%23336791.svg?style=flat-square&logo=mongodb"/>
     </td>
   </tr>
   <tr>
     <td>Machine Learning/Data Science</td>
     <td>
-<!--       <img src="https://img.shields.io/badge/Keras-D00000.svg?style=flat-square&logo=keras&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Keras-D00000.svg?style=flat-square&logo=keras&logoColor=white"/>
       <img src="https://img.shields.io/badge/Seaborn-4C4C4C?style=flat-square&logo=seaborn&logoColor=white"/>
       <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white"/>
-      <img src="https://img.shields.io/badge/D3.js-F9A03C.svg?style=flat-square&logo=d3dotjs&logoColor=white"/>
+      <!-- <img src="https://img.shields.io/badge/D3.js-F9A03C.svg?style=flat-square&logo=d3dotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat-square&logo=opencv&logoColor=white"/> -->
       <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white"/>
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
