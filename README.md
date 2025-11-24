@@ -1,10 +1,14 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=🫰🏻Hello!,%20I'm%20William👨🏻‍💻&textBg=false&reversal=false&rotate=0&fontAlignY=50&animation=fadeIn&desc=Welcome%20to%20my%20Repository!&descAlignY=70"
-<!------------------------------------------------------------------------------
+<!------------------------------------------------------------------------------>
 
 - 🤔 Learning Swift (Apple OS System) & Go (DevOPs & Cloud Infra)
+
 - Recent works: Developed Smart Wallet (webApp fullstack, main contribution AI financial Advisor) & Flowmind (IOS fullstack)
+
 - 💻 MacOS(Main), Linux, & Windows 
+
+Working on Private Repo Currently....
 
 
 ## Languages and Frameworks
