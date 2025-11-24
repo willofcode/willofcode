@@ -2,17 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=🫰🏻Hello!,%20I'm%20William👨🏻‍💻&textBg=false&reversal=false&rotate=0&fontAlignY=50&animation=fadeIn&desc=Welcome%20to%20my%20Repository!&descAlignY=70"
 <!------------------------------------------------------------------------------
 
-- 🔭 I’m working on AI projects, LeetCodes, etc.
-- 🌱 I’m currently interested in Machine Learning, Data Science, and Web Development
-- 👯 I’m looking to collaborate on Projects, Research, and Hackathons
-- 🤔 I’m also studying Swift and IOS Development
-- 💪 co-developed SmartWallet
-- 💻 working on MacOS, but can work with Linux and Windows OS
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: My hobbies are Billiards, Cooking, Baking, and Gym
--  Learning how to use METAL and core ML to develop machine learning software
--  familiar with MATLAB, MultiSIM, LabVIEW, and XILINX ISE Design.
-- Last updated: 05/2025
+- 🤔 Learning Swift (Apple OS System) & Go (DevOPs & Cloud Infra)
+- Recent works: Developed Smart Wallet (webApp fullstack, main contribution AI financial Advisor) & Flowmind (IOS fullstack)
+- 💻 MacOS(Main), Linux, & Windows 
+
 
 ## Languages and Frameworks
 <table>
