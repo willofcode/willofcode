@@ -4,7 +4,7 @@
 
 - 🤔 Learning Swift (Apple OS System) & Go (DevOPs & Cloud Infra)
 
-- Recent works: Developed Smart Wallet (webApp fullstack, main contribution AI financial Advisor) & Flowmind (IOS fullstack)
+- Recent works: Developed Medshare (Fullstack/AI),  Flowmind (IOS fullstack), & Smart Wallet (webApp fullstack, main contribution AI financial Advisor)
 
 - 💻 MacOS(Main), Linux, & Windows 
 
